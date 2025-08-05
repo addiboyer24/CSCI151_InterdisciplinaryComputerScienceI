@@ -1,1 +1,1 @@
-# CSCI151_-InterdisciplinaryComputerScienceI
+# CSCI151_InterdisciplinaryComputerScienceI
