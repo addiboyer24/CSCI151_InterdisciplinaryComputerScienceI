@@ -1,8 +1,3 @@
-constitution.txt
-tomsawyer.txt
-huckfinn.txt
-prejudice.txt
-vector.py
-djia.csv
-amazon.html
-actg.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed64226e3062fa992250d771d3f98fc8a9eb8c1abec0d9adbea3981fbfbe93d8
+size 106

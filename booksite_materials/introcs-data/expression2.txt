@@ -1,1 +1,3 @@
-( ( 1 + sqrt ( 5.0 ) ) * 0.5 )
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0a8cc498fa30148f1f2dcb1b5fa6e6ab7ee565171b4857dd9fd096f14f342bc
+size 31

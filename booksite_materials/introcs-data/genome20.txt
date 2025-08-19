@@ -1,1 +1,3 @@
-ATAGATGCATAGCGCATAGC
+version https://git-lfs.github.com/spec/v1
+oid sha256:f15e4355aea86ba0b42aab11e531b470b234509b13207bb70093b9a3a0312774
+size 20

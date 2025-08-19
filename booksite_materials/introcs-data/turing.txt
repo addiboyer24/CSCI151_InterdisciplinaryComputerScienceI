@@ -1,7 +1,3 @@
-Turing, Alan
-10.24
-4
-100 ADBE
- 25 GOOG
- 97 IBM
-250 MSFT
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6af499c8ecb091ef99b7d772856f0d262bd15a138471ab33e58ed8d68ac4520
+size 56

@@ -1,4 +1,3 @@
-alice@home
-bob@office
-carl@beach
-dave@boat
+version https://git-lfs.github.com/spec/v1
+oid sha256:27b65aa0d0d60551da32273214b3243a7547b30eed5dd623bfe7bb4dd745f7c8
+size 43

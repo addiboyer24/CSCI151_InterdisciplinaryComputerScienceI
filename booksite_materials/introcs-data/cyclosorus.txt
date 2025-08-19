@@ -1,17 +1,3 @@
-4
-  0.02 0.84 0.07 0.07
-
-4 3
-   0.000  0.000  0.500
-   0.950  0.005  0.025
-   0.035 -0.200  0.474
-  -0.040  0.200  0.528
-
-4 3
-   0.000  0.250 -0.040
-  -0.005  0.930  0.053
-   0.160  0.040 -0.078
-   0.160  0.040 -0.068
-
-Cyclosorus Fern
-http://www.home.aone.net.au/~byzantium/ferns/fractal.html
+version https://git-lfs.github.com/spec/v1
+oid sha256:60ee1cd0e3df8fd1107892de828305aa7ef8cc043894f9c46613e181ad36dd66
+size 293
